@@ -111,15 +111,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amal-Aji&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amal-Aji&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Aji&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Amal-Aji&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Aji&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=Amal-Aji&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
