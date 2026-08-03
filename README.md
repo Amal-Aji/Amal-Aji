@@ -13,8 +13,8 @@
 <!-- Profile Views + Follow Badges -->
 <img src="https://komarev.com/ghpvc/?username=cyber-dome&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square" />
 &nbsp;
-<a href="https://github.com/Cyber-Dome?tab=followers">
-  <img src="https://img.shields.io/github/followers/Cyber-Dome?label=Followers&style=flat-square&color=7c3aed&logo=github" />
+<a href="https://github.com/Amal-Aji?tab=followers">
+  <img src="https://img.shields.io/github/followers/Amal-Aji?label=Followers&style=flat-square&color=7c3aed&logo=github" />
 </a>
 
 </div>
